@@ -40,7 +40,7 @@ V aplikaci je použito.
 <!-- GETTING STARTED -->
 
 ### Instalace
-
+[![Dependenci Name Screen Shot][dependenci-screenshot]]
 1. Install packages
 ```sh
   yarn install 
