@@ -6,16 +6,8 @@
 <br />
 <div align="center">
 
-  <h3 align="center">React b-chat</h3>
+  <h3 align="center">Daily-News-React</h3>
 
-  <p align="center">
-    Realtime chat aplikace se sociálním oveřením přístutpu.
-    <br />
-    <br />
-    .
-    <a href="https://b-chat.netlify.app/">View Demo</a>
-    .
-  </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -23,7 +15,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://b-chat.netlify.app/)
 
-Tato webová aplikace je vytvořena pomocí tutorialu na [JavaScript Mastery](https://www.youtube.com/watch?v=Bv9Js3QLOLY&t=2284s&ab_channel=JavaScriptMastery).  Jedná se o Realtime chat aplikaci s ověřením přístupu přes Google.   [Chatengine.io](https://chatengine.io).
+Tento projekt je vytvořen za pomoci React Material-UI a jedná se o načtení [Newsapi] (https://newsapi.org/) [Openweathermap](https://openweathermap.org/api) a radio-browser-api.
+Tato verze nemá online demo.  Poskytovatel umožnuje free pouze na localhost.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -34,8 +28,9 @@ Tato webová aplikace je vytvořena pomocí tutorialu na [JavaScript Mastery](ht
 V aplikaci je použito.
 
 * [React.js](https://reactjs.org/)
-* [Google Firebase](https://firebase.google.com/)
-* [Chatengine](https://chatengine.io)
+* [Newsapi](https://newsapi.org/)
+* [Openweathermap](https://openweathermap.org/api)
+* [Radio-browser-api](https://www.npmjs.com/package/radio-browser-api?activeTab=dependencies)
 
 
 
