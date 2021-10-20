@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## O projektu
 
-[![Product Name Screen Shot][product-screenshot]](https://b-chat.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]]
 
 Tento projekt je vytvořen za pomoci React Material-UI a jedná se o načtení [Newsapi] (https://newsapi.org/) [Openweathermap](https://openweathermap.org/api) a radio-browser-api.
 Tato verze nemá online demo.  Poskytovatel umožnuje free pouze na localhost.
@@ -65,3 +65,4 @@ Josef Dosoudil  - jeptun@gmail.com
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [product-screenshot]: images/img.PNG
+[dependenci-screenshot]: images/depend.PNG
